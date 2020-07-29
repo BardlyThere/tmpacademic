@@ -2,7 +2,7 @@
 title: Test Page
 summary: Oh yeah, here's a summary.
 type: docs
-date:
+date: "2020-07-29"
 draft: false
 commentable: true
 editable: true
