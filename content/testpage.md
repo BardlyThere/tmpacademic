@@ -1,10 +1,12 @@
 ---
 title: Test Page
+summary: Oh yeah, here's a summary.
+type: docs
 date:
 draft: false
-share: false
 commentable: true
 editable: true
+
 
 # Optional header image (relative to `static/img/` folder).
 header: A header
