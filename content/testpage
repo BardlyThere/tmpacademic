@@ -1,0 +1,15 @@
+---
+title: Test Page
+date:
+draft: false
+share: false
+commentable: true
+editable: true
+
+# Optional header image (relative to `static/img/` folder).
+header: A header
+  caption: "a caption"
+  image: "https://i.redd.it/w3kr4m2fi3111.png"
+---
+
+This is a test page. Oh my word!
